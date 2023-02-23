@@ -10,4 +10,4 @@ redirect_from:
 
 This is Yurui Hong's home on the web!
 
-Lorem ipsum
+I'm currently a third-year undergraduate student at Tsinghua University, majoring in Chemical Biology for Pharmaceutical Sciences. I'm interested in the intersection of biology and computer science, and I'm currently working on an SRT project about the application of machine learning in drug discovery.

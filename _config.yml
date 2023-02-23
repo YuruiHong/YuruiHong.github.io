@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yurui Hong"
-  avatar           : "profile.png"
+  avatar           : "yuruihong.jpg"
   bio              : "Pursuing Bachelor's degree in Chemical Biology for Pharmaceutical Sciences at Tsinghua University; minor in Software engineering; currently an exchange student at Monash University."
   location         : "Haidian District, Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yuruihong02@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
