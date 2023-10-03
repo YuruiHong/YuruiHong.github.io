@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yurui Hong"
 title_separator          : "-"
 name                     : &name "Yurui Hong"
-description              : &description "Undergraduate student at Tsinghua University"
+description              : &description "Senior undergraduate at Tsinghua University"
 url                      : https://YuruiHong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuruiHong/YuruiHong.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yurui Hong"
   avatar           : "yuruihong.jpg"
-  bio              : "Pursuing Bachelor's degree in Chemical Biology for Pharmaceutical Sciences at Tsinghua University; minor in Software Engineering; currently an exchange student at Monash University."
+  bio              : "Major in Chemical Biology for Pharmaceutical Sciences at Tsinghua University; minor in Software Engineering; accepted as a future Ph.D. student in bioinformatics at the Department of Automation, Tsinghua University."
   location         : "Haidian District, Beijing, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
