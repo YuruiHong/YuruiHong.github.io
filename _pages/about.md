@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 <meta name="keywords" content="Yurui Hong, 洪宇睿">
+<script src="https://cdn.jsdelivr.net/gh/Young-Lord/fight-for-the-open-web@main/openweb.js" defer async></script>
 
 This is Yurui Hong's home on the web!
 
