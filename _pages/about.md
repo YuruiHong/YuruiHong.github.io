@@ -13,4 +13,4 @@ redirect_from:
 
 This is Yurui Hong's home on the web!
 
-I'm currently a senior undergraduate student at Tsinghua University, majoring in Chemical Biology for Pharmaceutical Sciences. I'm interested in the intersection of biology and computer science, and has been accepted as a Ph.D. student in bioinformatics at Department of Automation, Tsinghua University, starting from 2024.
+I'm currently a Ph.D. student at Tsinghua University starting from 2024, majoring in bioinformatics. I have obtained two Bachelor's degrees, one in Chemical Biology for Pharmaceutical Sciences and one in Software Enginering. I am always interested in the inter section of biology and computer science and am actively seeking opportunities to apply computational techniques to biological research.

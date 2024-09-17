@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemical Biology for Pharmaceutical Sciences, Tsinghua University, 2024 (expected)
+* B.S. in Chemical Biology for Pharmaceutical Sciences, Tsinghua University, 2024 
+* B.S. in Software Engineering, Tsinghua University, 2024 
 * Exchange student in Monash Institute of Pharmaceutical Sciences, Monash University, 2023.2-6
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
